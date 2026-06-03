@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🇻🇳 AIDEOM-VN — AI-driven Economic Optimization Model for Vietnam
 
 > **Đồ án môn học Bài 12** — Hệ thống tối ưu hoá phát triển kinh tế số Việt Nam 2026–2030  
