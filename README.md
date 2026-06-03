@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🇻🇳 AIDEOM-VN — AI-driven Economic Optimization Model for Vietnam
 
 > **Đồ án môn học Bài 12** — Hệ thống tối ưu hoá phát triển kinh tế số Việt Nam 2026–2030  
@@ -123,3 +124,6 @@ M5 Risk ──────┘     ├── Tab 2: Phân bổ ngân sách
 
 ---
 *AIDEOM-VN © 2025 — Đồ án môn Kinh tế số & AI*
+=======
+# AIDEOM-VN
+>>>>>>> d310e83136cb24e0a5ae33de0c994e88a56034b0
