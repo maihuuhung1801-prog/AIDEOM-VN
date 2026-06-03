@@ -130,13 +130,13 @@ M5 Risk ──────┘     ├── Tab 2: Phân bổ ngân sách
 ![Overview](images/dashboard.png)
 
 ### 2. Phân bổ ngân sách
-![Allocation](images/dashboard01.png)
+![Allocation](images/dashboard02.png)
 
 ### 3. Phân tích rủi ro
-![Risk](images/dashboard02.png)
+![Risk](images/dashboard03.png)
 
 ### 4. Kịch bản mô phỏng
-![Scenario](images/dashboard03.png)
+![Scenario](images/dashboard04.png)
 ---
 *AIDEOM-VN © 2025 — Đồ án môn Kinh tế số & AI*
 =======
