@@ -1,4 +1,7 @@
-
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Project](https://img.shields.io/badge/AI-Economic_Model-orange)
 # 🇻🇳 AIDEOM-VN — AI-driven Economic Optimization Model for Vietnam
 
 > **Đồ án môn học Bài 12** — Hệ thống tối ưu hoá phát triển kinh tế số Việt Nam 2026–2030  
@@ -121,7 +124,19 @@ M5 Risk ──────┘     ├── Tab 2: Phân bổ ngân sách
 
 ## 👥 Nhóm thực hiện
 *[Điền tên thành viên nhóm tại đây]*
+## 📊 Dashboard Preview
 
+### 1. Tổng quan hệ thống
+![Overview](images/dashboard.png)
+
+### 2. Phân bổ ngân sách
+![Allocation](images/dashboard01.png)
+
+### 3. Phân tích rủi ro
+![Risk](images/dashboard02.png)
+
+### 4. Kịch bản mô phỏng
+![Scenario](images/dashboard03.png)
 ---
 *AIDEOM-VN © 2025 — Đồ án môn Kinh tế số & AI*
 =======
