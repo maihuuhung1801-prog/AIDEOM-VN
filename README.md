@@ -2,9 +2,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 ![Project](https://img.shields.io/badge/AI-Economic_Model-orange)
-# 🇻🇳 AIDEOM-VN — AI-driven Economic Optimization Model for Vietnam
+# 🇻🇳 AIDEOM-VN — MÔ HÌNH RA QUYẾT ĐỊNH PHÁT TRIỂN KINH TẾ VIỆT NAM TRONG KỈ NGUYÊN AI 
 
-> **Đồ án môn học Bài 12** — Hệ thống tối ưu hoá phát triển kinh tế số Việt Nam 2026–2030  
+> **Đồ án thực hành môn học Bài 12** — Hệ thống tối ưu hoá phát triển kinh tế số Việt Nam 2026–2030  
 > Tích hợp 6 module: Dự báo · Sẵn sàng số · Phân bổ ngân sách · Lao động · Rủi ro · Dashboard
 
 ---
