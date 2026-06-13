@@ -122,8 +122,7 @@ M5 Risk ──────┘     ├── Tab 2: Phân bổ ngân sách
 
 ---
 
-## 👥 Nhóm thực hiện
-*[Điền tên thành viên nhóm tại đây]*
+## 👥 Thực hiện
 ## 📊 Dashboard Preview
 
 ### 1. Tổng quan hệ thống
